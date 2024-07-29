@@ -36,7 +36,7 @@ class Wave:
             l+=1
         return sum_wave
 
-
+#<Keith> function testing, will move to unit test file 
 a = Wave(5000, 1)
 a.data[0] = 3
 a.data[1] = 2
